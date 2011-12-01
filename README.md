@@ -1,0 +1,1 @@
+These are just a few random pieces of source I used to hack on the WCI portal. Basically wanted to know how login tokens and user account passwords are encrypted/decrypted, etc.
